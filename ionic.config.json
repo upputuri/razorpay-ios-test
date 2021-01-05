@@ -1,0 +1,7 @@
+{
+  "name": "razorpay-ios-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
